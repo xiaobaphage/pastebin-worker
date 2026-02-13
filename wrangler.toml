@@ -29,7 +29,7 @@ custom_domain = true
 
 [[kv_namespaces]]
 binding = "PB"  # do not touch this
-id = "7de02ae423ea49a79130f0496316be49"  # id of your KV namespace
+id = "fb449620d68943589af616c99790ee7c"  # id of your KV namespace
 
 [[r2_buckets]]
 binding = "R2"  # do not touch this
